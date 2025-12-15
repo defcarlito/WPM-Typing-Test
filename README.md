@@ -10,15 +10,15 @@ Despite being a pretty simple project, I think the GUI and UX is pretty nice for
 
 ![Incorrect characters example](img/incorrect-chars-ex.png)
 
-*Example of getting characters incorrect.*
+*Getting characters incorrect.*
 
 ![Example of too many characters for a word](img/too-long-ex.png)
 
-*Example of typing too many characters for a word.*
+*Typing too many characters for a word.*
 
-![Example of using the app](img/test-ex.gif)
+![Example of using the app](img/demonstration.gif)
 
-*Example of using the app.*
+*App demo.*
 
 ## Usage
 
@@ -37,7 +37,7 @@ Install the only dependency:
 pip install pyside6
 ```
 
-To run the app, navigate into the project folder and run:
+Run the app:
 
 ```
 python3 main.py
