@@ -16,7 +16,7 @@ Despite being a pretty simple project, I think the GUI and UX is pretty nice for
 
 *Typing too many characters for a word.*
 
-![Example of using the app](img/demonstration.gif)
+![Example of using the app](img/demo.gif)
 
 *App demo.*
 
