@@ -13,12 +13,14 @@ Despite being a pretty simple project, I think the GUI and UX is pretty nice for
 <br />
 <em>Getting characters incorrect.</em>
 </p>
+<br />
 
 <p align="center">
 <img src="img/too-long-ex.png" alt="Too many characters example" />
 <br />
 <em>Typing too many characters for a word.</em>
 </p>
+<br />
 
 <p align="center">
   <img src="img/demo.gif" alt="App demo" />
