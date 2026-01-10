@@ -6,7 +6,7 @@ It is a standard typing speed test that will measure typing metrics such as your
 
 Despite being a pretty simple project, I think the GUI and UX is pretty nice for being made with a relatively primitive GUI library. I tried to copy some of [MonkeyType's](https://monkeytype.com/) UI/UX such as indicators when not only certain characters are incorrect, but if too many characters were typed for the current word. 
 
-### Examples
+## Examples
 
 <p align="center">
 <img src="img/incorrect-chars-ex.png" alt="Incorrect characters example" />
