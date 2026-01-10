@@ -430,7 +430,7 @@ class WPMApp(QWidget):
         self.typed_words = []
 
         self.text_input.setDisabled(False)
-        self.text_input.setReadOnly(False)  # 🔥 Ensure input is not in a read-only state
+        self.text_input.setReadOnly(False)
         self.text_input.clear()
 
         self.text_input.clear()
