@@ -8,17 +8,23 @@ Despite being a pretty simple project, I think the GUI and UX is pretty nice for
 
 ### Examples
 
-![Incorrect characters example](img/incorrect-chars-ex.png)
+<p align="center">
+<img src="img/incorrect-chars-ex.png" alt="Incorrect characters example" />
+<br />
+<em>Getting characters incorrect.</em>
+</p>
 
-<p align="center"><em>Getting characters incorrect.</em></p>
+<p align="center">
+<img src="img/too-long-ex.png" alt="Too many characters example" />
+<br />
+<em>Typing too many characters for a word.</em>
+</p>
 
-![Example of too many characters for a word](img/too-long-ex.png)
-
-<p align="center"><em>Typing too many characters for a word.</em></p>
-
-![Example of using the app](img/demo.gif)
-
-<p align="center"><em>App demo.</em></p>
+<p align="center">
+  <img src="img/demo.gif" alt="App demo" />
+  <br />
+  <em>App demo.</em>
+</p>
 
 ## Usage
 
