@@ -10,15 +10,15 @@ Despite being a pretty simple project, I think the GUI and UX is pretty nice for
 
 ![Incorrect characters example](img/incorrect-chars-ex.png)
 
-*Getting characters incorrect.*
+<p align="center"><em>Getting characters incorrect.</em></p>
 
 ![Example of too many characters for a word](img/too-long-ex.png)
 
-*Typing too many characters for a word.*
+<p align="center"><em>Typing too many characters for a word.</em></p>
 
 ![Example of using the app](img/demo.gif)
 
-*App demo.*
+<p align="center"><em>App demo.</em></p>
 
 ## Usage
 
