@@ -400,7 +400,7 @@ class WPMApp(QWidget):
         
 
     def mousePressEvent(self, event):
-        ### force focus back to text_input to avoid mouse actions not allowing user to type
+        ### force focus back to 'text_input' to avoid mouse actions not allowing user to type
         self.text_input.setFocus()
         event.accept()
 
